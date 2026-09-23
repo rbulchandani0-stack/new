@@ -1,0 +1,8 @@
+{
+  "name": "Trading Platform & Admin Control Desk",
+  "description": "Professional trading platform with live trade controls, deposits, withdrawals, and role-based permissions.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
